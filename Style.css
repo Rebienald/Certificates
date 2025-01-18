@@ -53,5 +53,14 @@ h1{
       text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 
 }
+p{
+  font-size: 20px;
+    position: sticky;
+    color:rgb(123, 123, 123);
+    text-align: center;
+    z-index: 10; 
+      top: 0;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
 
 
