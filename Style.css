@@ -15,14 +15,23 @@ img{
 
 
 }
+#ewanko{
+  align-items: center;
+  display: flex;
+  justify-content: center; /* Aligns horizontally */
+  align-items: center; /* Aligns vertically */
+}
+
 button{
+  align-self: center;
+  align-items: center;
   background: rgba(255, 255, 255, 0.2); /* Light transparency */
     border: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent border */
     color: gray; /* Text color */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   border-radius: 20px;
   width: 20vh;
-text-align: center;
+  text-align: center;
   height:5vh;
 }
 body{
