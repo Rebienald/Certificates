@@ -84,4 +84,5 @@ img:hover{
       position: sticky;
       top: 40px; /* Adjusted top to avoid overlap */
       z-index: 10;
+      
   }
